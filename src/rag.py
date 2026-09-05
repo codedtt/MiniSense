@@ -12,7 +12,7 @@ class SimpleFAQVectorStore:
         self._load_and_chunk()
 
     def _load_and_chunk(self):
-        with open(self.raw_faq_path, "r") as f:
+        with open(self.raw_faq_path, "r", encoding="utf-8") as f:
             text = f.read()
 
         # Chunking Strategy: Split by double-newline to isolate Q&A blocks
