@@ -1,0 +1,25 @@
+GreenLeaf Bistro — Customer Experience & Operations Guide
+
+Q: What are your most popular menu items?
+A: Our top sellers are the Avocado Toast, Garden Bowl, and Cold Brew Coffee. Seasonal items like the Pumpkin Spice Latte in autumn and Berry Acai Bowls in summer also see significant volume spikes.
+
+Q: What is your average wait time?
+A: We target under 10 minutes for counter orders during off-peak hours. Peak hours (12–1 PM for lunch, 6–8 PM for dinner) may see 15–20 minute wait times. Mobile pre-orders average under 5 minutes pickup window.
+
+Q: How do you handle customer complaints?
+A: All verbal and digital complaints are escalated to the shift manager on duty within 15 minutes. Refunds or free meal vouchers are offered immediately for quality or timing issues exceeding 20 minutes. Shift managers log every incident into the central CRM.
+
+Q: What is your CSAT target and threshold policy?
+A: We aim for a monthly Customer Satisfaction (CSAT) score of 4.5+ out of 5.0. Scores dropping below 4.0 in any single week trigger an immediate root-cause review with the regional operations team and mandatory staff retraining.
+
+Q: What are the primary feedback channels?
+A: Feedback is collected via in-store QR code table tents, web post-checkout popups, mobile app push surveys, and post-visit email notifications. Mobile app surveys make up 55% of all incoming responses.
+
+Q: How are cleanliness and sanitation managed?
+A: Sanitation walks are performed every 30 minutes in dining areas and restrooms. Kitchen equipment undergoes deep cleaning twice daily (post-lunch and post-closing).
+
+Q: What is the compensation or refund policy for late orders?
+A: If a customer waits longer than 25 minutes during peak hours, they receive a 100% refund plus a 20% discount card for their next visit.
+
+Q: How does GreenLeaf Bistro measure feedback themes?
+A: Survey comments are categorized into five core buckets: Food Quality, Speed of Service, Staff Hospitality, Cleanliness, and Value for Money.
